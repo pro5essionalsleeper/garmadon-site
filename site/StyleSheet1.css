@@ -1,0 +1,28 @@
+﻿body 
+{
+    background-color: #eed4ff;
+}
+
+header {
+    text-align: center;
+    font-size: 50px;
+}
+h1 {
+    text-shadow: 5px 5px 2px gray;
+}
+
+article {
+    text-align: center;
+    font-size: 20px;
+    border: 3px solid black;
+    box-shadow: 3px 3px #000000;
+}
+
+footer 
+{
+    font-size: 20px;
+    text-align:center;
+    margin-top: 70px;
+    position:fixed;
+    bottom: 0;
+}
