@@ -93,6 +93,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="HtmlPage1.html" />
+    <Content Include="powers.html" />
+    <Content Include="story.html" />
     <Content Include="StyleSheet1.css" />
     <Content Include="Web.config" />
   </ItemGroup>

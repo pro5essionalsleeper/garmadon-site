@@ -11,6 +11,12 @@ h1 {
     text-shadow: 5px 5px 2px gray;
 }
 
+a:link {
+    text-align: center;
+    font-size: 15px;
+    text-decoration-line: none;
+}
+
 article {
     text-align: center;
     font-size: 20px;
@@ -23,6 +29,5 @@ footer
     font-size: 20px;
     text-align:center;
     margin-top: 70px;
-    position:fixed;
     bottom: 0;
 }
