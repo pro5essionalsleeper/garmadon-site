@@ -11,8 +11,18 @@ h1 {
     text-shadow: 5px 5px 2px gray;
 }
 
-nav {
-    text-decoration: none;
+
+ul{
+    margin: 10px;
+    list-style-type: none;
+    overflow:hidden;
+}
+ul li{
+    float: inherit;
+}
+ul li a {
+        text-decoration: none;
+        font-size: 25px;
 }
 
 article {
